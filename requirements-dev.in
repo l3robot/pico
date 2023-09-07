@@ -1,0 +1,6 @@
+pip-tools
+black
+isort
+mypy
+ruff
+pytest
