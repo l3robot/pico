@@ -1,0 +1,161 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+
+# Linux
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+__init__.py
+
+# Virtual Environments
+venv/
+env/
+.pycache/
+
+# Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+node_modules/
+bower_components/
+jspm_packages/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.hdb
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Icon?
+ehthumbs.db
+
+# Temp files
+*~
+*.swp
+*.bak
+
+# Windows image file caches
+Desktop.ini
+ehthumbs_vista.db
+Thumbs.db
+
+# Visual Studio Code files
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+
+# PyInstaller
+dist/
+build/
+*.exe
+
+# PyBuilder
+target/
+
+# pipenv
+.Python
+bin/
+lib64/
+lib/
+include/
+.lock-wscript
+pip-selfcheck.json
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+
+# Flask
+instance/
+.webassets-cache
+
+# Scrapy
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# Twisted
+twisted/
+twistd.pid
+twistd.log
+
+# Visual Studio Code directories
+.vscode/
+
+# .vscode extensions
+.vscode/extensions/
+
+# nvim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+# .net core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS Code directories
+.vscode/
+
+# User-specific files
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code .history folder
+.history/
+
